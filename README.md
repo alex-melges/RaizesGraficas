@@ -81,11 +81,14 @@ Primeiro, instale as dependências necessárias:
 
 ```bash
 pip install matplotlib numpy
+```
 
 ### 2. Rodar o Programa
 
 Após instalar as dependências, execute o arquivo main.py para abrir a interface gráfica:
 
+```bash
 python main.py
+```
 
 Isso abrirá a janela para inserir os coeficientes e visualizar as raízes e o gráfico da equação.
